@@ -1,5 +1,6 @@
 # Age_Picker_react_native
-A simple Picker that is modified to select age. 
+A simple Picker that is modified to select age. <br>
+![](age.gif)
 
 
 #  `@react-native-picker/picker`
