@@ -11,7 +11,7 @@ A simple Picker that is modified to select age.
 
 | Android | iOS | PickerIOS | Windows | MacOS |
 | --- | --- | --- | --- | --- |
-| <img src="./screenshots/picker-android.png" width="150"> | <img src="./screenshots/picker-ios.png" width="150"> | <img src="./screenshots/pickerios-ios.png" width="150"> | <img src="./screenshots/picker-windows.png" width="300"> | <img src="./screenshots/picker-macos.png" width="300">
+
 
 ## Supported Versions
 
